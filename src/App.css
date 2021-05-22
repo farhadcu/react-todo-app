@@ -1,0 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+tr {
+  vertical-align: middle;
+}
+
+button,
+a {
+  box-shadow: none !important;
+  width: 100px;
+  margin-top: 10px;
+}
+
+input[type='radio'],
+label {
+  cursor: pointer;
+}
